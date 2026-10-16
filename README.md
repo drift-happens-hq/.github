@@ -1,7 +1,3 @@
-# .github
-How robots actually work, and why they don't.
-![Drift Happens: how robots actually work, and why they don't](./banner.png)
-
 # Drift Happens
 
 **How robots actually work, and why they don't.**
